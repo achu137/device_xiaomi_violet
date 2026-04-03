@@ -216,6 +216,10 @@ ro.vendor.extension_library=libqti-perfd-client.so
 # QC framework value-adds
 ro.vendor.qti.va_aosp.support=1
 
+# ScrollOptimizer
+persist.sys.perf.scroll_opt=true
+persist.sys.perf.scroll_opt.heavy_app=1
+
 # Radio
 persist.radio.multisim.config=dsds
 persist.vendor.radio.apm_sim_not_pwdn=1
