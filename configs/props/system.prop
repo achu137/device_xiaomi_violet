@@ -9,6 +9,7 @@ persist.vendor.cne.feature=1
 
 # Display
 debug.performance.tuning=1
+persist.sysui.blur_radius=30
 
 # Infinity-X Flags
 ro.product.marketname=Redmi Note 7 Pro
